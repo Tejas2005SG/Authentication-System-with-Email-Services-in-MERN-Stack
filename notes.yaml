@@ -1,0 +1,6 @@
+<div className='min-h-screen bg-white flex justify-center items-center gap-10'>
+// <Link to={"/signup"} className='bg-gray-900 p-3 rounded-md font-bold text-white w-40 text-center'>Sign Up</Link>
+// <Link to={"/login"} className='bg-gray-900 p-3 rounded-md font-bold text-white w-40 text-center'>Login</Link>
+// Home
+
+// </div>
