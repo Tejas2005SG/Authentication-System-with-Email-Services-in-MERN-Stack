@@ -1,6 +1,8 @@
 SampleAuth - Secure Authentication System with Email Services 🎉
 Welcome to SampleAuth, a complete authentication solution built with the MERN stack, including email verification, password reset, and welcome notifications. This project provides a secure and user-friendly way for users to register, verify, log in, and reset passwords, making it ideal for robust web applications.
 
+get the FLOWCHART OF THIS APPLICATION HERE ----->>  [AUTHENTICATION-PROJECT](https://app.eraser.io/workspace/JWIMYngTGFNN8pjHMHh3)
+
 📑 **Table of Contents**
 
 Features
